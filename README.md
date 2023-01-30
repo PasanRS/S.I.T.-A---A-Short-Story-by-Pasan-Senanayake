@@ -1,7 +1,13 @@
-# S.I.T.-A---A-Short-Story-by-Pasan-Senanayake
-S.I.T.:A - Fictional A Short Story by Pasan Senanayake.
+### Hi there 👋, Welcome to Never-Ending Story
+#### S.I.T.:A Simulation Intergrated Technologies :Alpha
+![S.I.T.:A Simulation Intergrated Technologies :Alpha](https://user-images.githubusercontent.com/26182621/215552260-8be0c105-62e3-4928-b386-9be5d02a138b.png)
 
-# **I would like to welcome you all who made to here, since you made it here I hope you guys already have some sort of idea what I was trying to say in this story; though I have a huge story wind up in my head, I thought to give public the opportunity to add their versions and episodes to the story-line, one thing is certain, When you understand the core meaning of the narrative It will never be too much memory-lines to complete the journey of S.I.T.:A**
+I made this project allow you to contribute to Never-Ending Story of Sitha
 
-I Welcome you all to push limits of your deep understanding and imagination in-between the lines, 
-Please mention your names and fork your additions to the book and let’s keep this Repository as an Open forum of “Fictional” Wisdom.
+Skills: Imagination and Deep understanding of Philosophy 
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
