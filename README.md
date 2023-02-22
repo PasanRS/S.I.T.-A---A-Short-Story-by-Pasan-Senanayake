@@ -8,6 +8,7 @@ Skills: Imagination and Deep understanding of Philosophy
 
 - 🔭 I’m currently working on this page. 
 
+22/02/23 Published and If you had the curiosity to come here I think we both know you also have some perspective to add, Feel free push your narrative, - Pasan
 
 
 
