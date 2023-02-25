@@ -4,7 +4,6 @@
 	<meta charset="UTF-8">
 	<title>S.I.T.;A. Simulation Integrated Technologies</title>
 	<!-- Include the flipbook.js library -->
-	<embed src="path/to/your/pdf/file.pdf" type="application/pdf" width="100%" height="600px" />
 	<script src="https://cdn.jsdelivr.net/npm/flipbookjs@3.0.0/dist/flipbook.min.js"></script>
 	<!-- Define the styles for the flipbook container -->
 	<style>
@@ -21,12 +20,12 @@
 	<div id="flipbook"></div>
 	<!-- Initialize the flipbook -->
 	<script>
-		// Replace "path/to/your/pdf/file.pdf" with the path to your PDF file
+		// Replace "/path/to/your/pdf/file.pdf" with the path to your PDF file
 		var flipbook = new Flipbook({
 			pages: "/Files/S.I.T.A by Pasan Senanayake.pdf",
 			container: "#flipbook",
 			width: 420,
-			height: 595
+			height: 595,
 			scale: 0.8
 		});
 	</script>
